@@ -260,12 +260,15 @@ Idea OK
 > 
 > **Vantaggi Educativi:**
 > 
-> * **Apprendimento Immersivo e Coinvolgente:** L'utilizzo di elementi visivi,
+> - **Apprendimento Immersivo e Coinvolgente:** L'utilizzo di elementi visivi,
 > sonori e narrativi generati dall'AI rende la storia tangibile e coinvolgente,
-> stimolando la curiosità e l'immaginazione. * **Personalizzazione e
-> Interazione:** La possibilità di scegliere il proprio percorso e interagire
+> stimolando la curiosità e l'immaginazione. 
+>
+> - **Personalizzazione e Interazione:** La possibilità di scegliere il proprio percorso e interagire
 > con l'ambiente rende l'esperienza più personale e memorabile, favorendo un
-> apprendimento attivo. * **Sviluppo del Pensiero Critico:**  "Intervistare"
+> apprendimento attivo. 
+>
+> - **Sviluppo del Pensiero Critico:**  "Intervistare"
 > personaggi storici virtuali e analizzare diverse prospettive stimola il
 > pensiero critico e la capacità di valutare diverse fonti di informazione.
 > 
