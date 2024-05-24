@@ -1,5 +1,9 @@
 # Introduzione
 
+Il progetto richiedeva la scelta di un settore e di una tecnologia a cui fare
+riferimento. A questo fine abbiamo scelto come settore l'educazione, e come
+tecnologia la stessa Generative AI.
+
 Nello spirito di sfruttare i punti di forza della generative AI, abbiamo optato
 per un'esperienza museale che non debba per forza essere relegata a un
 particolare argomento, ma che possa essere generata dinamicamente dall'utente
@@ -29,7 +33,7 @@ qualcosa di fruito da esseri umani che conoscono i propri sensi in modo tale da
 sapere cosa rende un'esperienza museale godibile. Essendo l'apparato sensoriale
 di un'IA fondamentalmente diverso dal nostro, come lo è il suo rapporto con la
 memoria e l'apprendimento, è ipotizzabile che le loro proposte siano
-disconnesse da questi aspetti, che invece possono essere al centro nel creare
+disconnesse da questi aspetti, che invece possono essere centrali nel creare
 un'esperienza che abbia valore umano.
 
 Nel valutare le risposte delle LLM si considereranno questi aspetti, anche in
@@ -39,7 +43,7 @@ multimodali e solo testuali. Avere una capacità, anche modesta, di elaborazione
 di quello che può essere un'esperienza visiva, potrebbe influenzare le risposte
 date.
 
-# Fase 1
+## Prompt
 
 Per la fase di elaborazione dell'idea abbiamo usato questi modelli:
 
@@ -84,6 +88,10 @@ GPT4-o:
 > Puoi suggerirmi un concetto dettagliato che utilizzi la generative AI per
 > migliorare l’apprendimento e l’interazione all’interno del museo?
 
+La risposta è la più sintetica e diretta delle tre, e non ricorre
+all'attribuire un'identità al modello. Non sembra aggiungere molto a ciò che
+avremmo potuto scrivere senza particolare considerazione.
+
 Claude:
 
 > Immagina di essere un consulente per un museo dedicato all’educazione. Il
@@ -106,6 +114,10 @@ Claude:
 > Fornisci una risposta dettagliata e ben strutturata, con un minimo di 200
 > parole.
 
+Questa è la risposta più dettagliata, dove c'è l'attribuzione di un ruolo e un
+richiamo al dettaglio e alla struttura, e a un limite di parole. Come prompt
+sembra il più funzionale al fine di ottenere risultati mirati.
+
 Gemini:
 
 > Sei un esperto di tecnologie educative e museali. Vorrei progettare una nuova
@@ -113,3 +125,52 @@ Gemini:
 > dell’educazione. Fornisci un’idea creativa e innovativa, descrivendo in
 > dettaglio come la Generative AI potrebbe essere utilizzata per creare
 > un’esperienza coinvolgente ed educativa per i visitatori del museo.
+
+Il prompt è il più sintetico tra quelli proposti, ed è simile in direzione a
+quello di Claude.
+
+Come prompt di base abbiamo scelto quello di Claude, dato che era sia quello
+più esaustivo sia quello che andava più verso l'essere mirato nei contenuti.
+
+## Idee proposte
+
+### GPT4-o
+
+> Un'idea innovativa per un'esperienza immersiva e coinvolgente in un museo
+> dedicato all'educazione potrebbe essere "Il Viaggio nel Tempo: Esplora le
+> Civiltà Antiche". Questa installazione utilizza la generative AI per creare
+> un'avventura interattiva in cui i visitatori possono esplorare diverse epoche
+> storiche, immergendosi nella vita quotidiana di civiltà antiche come l'Egitto,
+> Roma e la Grecia.
+> 
+> **Come viene utilizzata la Generative AI:** La generative AI può essere
+> utilizzata per creare ambientazioni storiche dettagliate, personaggi
+> interattivi e narrazioni personalizzate. Quando un visitatore entra
+> nell'installazione, può scegliere una civiltà da esplorare tramite
+> un'interfaccia touch-screen. L'AI genera in tempo reale un ambiente visivo
+> tridimensionale che rappresenta la città o il villaggio di quella civiltà,
+> completo di edifici, strade e paesaggi.
+> 
+> **Elementi Visivi e Contenuti Generati:** La generative AI può creare
+> personaggi storici interattivi che i visitatori possono incontrare e con cui
+> possono dialogare. Questi personaggi possono rispondere a domande, raccontare
+> storie e fornire informazioni dettagliate sulla loro cultura e il loro modo di
+> vivere. Inoltre, l'AI può generare ricostruzioni di eventi storici
+> significativi, permettendo ai visitatori di assistere a scene importanti come
+> cerimonie religiose, battaglie o momenti di vita quotidiana.
+> 
+> **Integrazione nell'Ambiente del Museo:** L'installazione può essere realizzata
+> in una grande sala con schermi panoramici e sistemi di proiezione a 360 gradi.
+> I visitatori possono muoversi liberamente nello spazio, con sensori di
+> movimento che rilevano la loro posizione e adattano le proiezioni di
+> conseguenza. Postazioni interattive con auricolari e microfoni permettono ai
+> visitatori di comunicare con i personaggi generati dall'AI.
+> 
+> **Promozione dell'Apprendimento e dell'Engagement:** Questa esperienza
+> immersiva stimola l'apprendimento e la curiosità dei visitatori attraverso un
+> approccio hands-on e coinvolgente. I visitatori non solo apprendono fatti
+> storici, ma vivono esperienze che li aiutano a comprendere meglio i contesti
+> culturali e sociali delle civiltà studiate. La possibilità di interagire con
+> personaggi storici e partecipare a eventi significativi rende l'apprendimento
+> dinamico e memorabile, aumentando l'engagement e la retentività delle
+> informazioni acquisite.
