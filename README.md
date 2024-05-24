@@ -50,10 +50,66 @@ Per la fase di elaborazione dell'idea abbiamo usato questi modelli:
 Preliminarmente, per scegliere un prompt efficace, 
 
 
-Overview Fase 1. Sviluppare un’idea. L’idea di partenza viene sviluppata dagli studenti, scegliendo: • Un topic/museo/settore • Una tecnologia Gli studenti successivamente dovranno utlizzare tre strumenti genAI-based (es. chatGPT) e:
+Fase 1. Sviluppare un’idea. 
 
-Inserire i due elementi indicati innanzi
-interrogare i bot, chiedendo una idea creativa e innovativa per una nuova esperienza museale immersiva Obiettivo > esaminare ogni idea in modo più approfondito, ricorrendo ad analisi su documenti reperibili online:
-confrontare i tre output ottenuto dai tre strumenti, spiegando quale fra questi ha performato meglio in termini di
-velocità di esecuzione,
-puntualità e appropriatezza del risultato ottenuto
+A partire dalla seguente consegna:
+
+> L’idea di partenza viene sviluppata dagli studenti, scegliendo: 
+> - Un topic/museo/settore
+> - Una tecnologia 
+>  
+> Gli studenti successivamente dovranno utlizzare tre strumenti genAI-based (es.
+> chatGPT) e:
+> 
+> - Inserire i due elementi indicati innanzi
+> - interrogare i bot, chiedendo una idea creativa e innovativa per una nuova
+>   esperienza museale immersiva 
+> 
+> Obiettivo: esaminare ogni idea in modo più approfondito, ricorrendo ad analisi
+> su documenti reperibili online:
+> - confrontare i tre output ottenuto dai tre strumenti, spiegando quale fra
+>   questi ha performato meglio in termini di:
+>   - velocità di esecuzione
+>   - puntualità e appropriatezza del risultato ottenuto
+
+Sviluppa un prompt da inserire in tre LLM, che tenga in conto dei requisiti
+richiesti e che usi come settore l'educazione, e come tecnologia la generative
+AI.
+
+GPT4-o:
+
+> Sto cercando un’idea creativa e innovativa per una nuova esperienza museale
+> immersiva nel settore dell’educazione. Vorrei sfruttare la tecnologia della
+> generative AI per creare un’esperienza unica e coinvolgente per i visitatori.
+> Puoi suggerirmi un concetto dettagliato che utilizzi la generative AI per
+> migliorare l’apprendimento e l’interazione all’interno del museo?
+
+Claude:
+
+> Immagina di essere un consulente per un museo dedicato all’educazione. Il
+> museo vuole creare una nuova esperienza immersiva e coinvolgente per i
+> visitatori, in particolare per gli studenti, sfruttando le potenzialità della
+> generative AI.
+>
+> Proponi un’idea creativa e innovativa per un’installazione o un’attività
+> interattiva che utilizzi la generative AI per creare un’esperienza educativa
+> unica. L’idea dovrebbe stimolare l’apprendimento e la curiosità dei
+> visitatori, offrendo loro l’opportunità di esplorare concetti educativi in
+> modo nuovo e accattivante.
+>
+> Descrivi nel dettaglio come la generative AI verrebbe utilizzata all’interno
+> dell’esperienza, quali contenuti o elementi visivi potrebbero essere generati
+> dall’AI, e come questi si integrerebbero nell’ambiente del museo. Spiega
+> anche in che modo l’esperienza proposta promuoverebbe l’apprendimento e
+> l’engagement dei visitatori.
+>
+> Fornisci una risposta dettagliata e ben strutturata, con un minimo di 200
+> parole.
+
+Gemini:
+
+> Sei un esperto di tecnologie educative e museali. Vorrei progettare una nuova
+> esperienza museale immersiva che utilizzi la Generative AI nel settore
+> dell’educazione. Fornisci un’idea creativa e innovativa, descrivendo in
+> dettaglio come la Generative AI potrebbe essere utilizzata per creare
+> un’esperienza coinvolgente ed educativa per i visitatori del museo.
