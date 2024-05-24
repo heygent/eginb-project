@@ -234,40 +234,40 @@ Idea OK
 > 
 > **Ecco come funzionerebbe:**
 > 
-> 1. **Il Portale del Tempo:** All'ingresso, un grande schermo touchscreen funge
-> da "portale" temporale. La AI, addestrata su un vasto database di eventi
-> storici, personaggi e periodi, invita i visitatori a scegliere un'epoca da
-> esplorare. 
+> 1. **Il Portale del Tempo:** All'ingresso, un grande schermo touchscreen
+> funge da "portale" temporale. La AI, addestrata su un vasto database di
+> eventi storici, personaggi e periodi, invita i visitatori a scegliere
+> un'epoca da esplorare. 
 > 
 > 2. **Storie Generate e Visualizzate:**  Sulla base della scelta, la AI genera
 > una "capsula del tempo" personalizzata: una breve narrazione che descrive la
 > vita quotidiana in quel periodo storico. La narrazione è arricchita da
 > immagini, musiche e suoni generati dall'AI che rispecchiano l'epoca
-> selezionata. Ad esempio, se si sceglie il Rinascimento italiano, la AI potrebbe
-> generare immagini di botteghe artigiane, musica dell'epoca e descrizioni di
-> abiti e cibi.
+> selezionata. Ad esempio, se si sceglie il Rinascimento italiano, la AI
+> potrebbe generare immagini di botteghe artigiane, musica dell'epoca e
+> descrizioni di abiti e cibi.
 > 
 > 3. **Interazione e Apprendimento:** I visitatori non si limitano ad osservare
 > passivamente. Attraverso il touchscreen, possono interagire con l'ambiente
-> generato, "intervistando" personaggi storici creati dalla AI (tramite chatbot)
-> o esplorando oggetti 3D ricostruiti digitalmente.
+> generato, "intervistando" personaggi storici creati dalla AI (tramite
+> chatbot) o esplorando oggetti 3D ricostruiti digitalmente.
 > 
 > 4. **Lascia la Tua Eco:** Alla fine dell'esperienza, i visitatori possono
 > creare la propria "eco dal passato": una breve riflessione testuale o un
-> disegno ispirato da ciò che hanno appreso. L'AI trasforma le loro creazioni in
-> un formato digitale che si integra nell'installazione, creando un mosaico
+> disegno ispirato da ciò che hanno appreso. L'AI trasforma le loro creazioni
+> in un formato digitale che si integra nell'installazione, creando un mosaico
 > collettivo di "eco" che si arricchisce con il contributo di ogni visitatore.
 > 
 > **Vantaggi Educativi:**
 > 
 > * **Apprendimento Immersivo e Coinvolgente:** L'utilizzo di elementi visivi,
-> * sonori e narrativi generati dall'AI rende la storia tangibile e coinvolgente,
-> * stimolando la curiosità e l'immaginazione. **Personalizzazione e
-> * Interazione:** La possibilità di scegliere il proprio percorso e interagire
-> * con l'ambiente rende l'esperienza più personale e memorabile, favorendo un
-> * apprendimento attivo. **Sviluppo del Pensiero Critico:**  "Intervistare"
-> * personaggi storici virtuali e analizzare diverse prospettive stimola il
-> * pensiero critico e la capacità di valutare diverse fonti di informazione.
+> sonori e narrativi generati dall'AI rende la storia tangibile e coinvolgente,
+> stimolando la curiosità e l'immaginazione. * **Personalizzazione e
+> Interazione:** La possibilità di scegliere il proprio percorso e interagire
+> con l'ambiente rende l'esperienza più personale e memorabile, favorendo un
+> apprendimento attivo. * **Sviluppo del Pensiero Critico:**  "Intervistare"
+> personaggi storici virtuali e analizzare diverse prospettive stimola il
+> pensiero critico e la capacità di valutare diverse fonti di informazione.
 > 
 > "Eco dal Passato" trasforma la visita al museo in un'avventura interattiva e
 > personalizzata, dimostrando il potenziale della generative AI come strumento
