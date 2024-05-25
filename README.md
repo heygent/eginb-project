@@ -23,7 +23,7 @@ optare per prompt che dessero risposte più mirate e concise, in modo da avere
 idee più autocontenute e facilmente confrontabili. Abbiamo dato ai modelli il
 ruolo di consulente, usando il seguente prompt:
 
-> [!NOTE]
+> [!Prompt]
 >
 >Immagina di essere un consulente ingaggiato da un museo della scienza per
 >ideare una nuova esperienza educativa immersiva per studenti delle scuole
