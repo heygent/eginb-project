@@ -415,3 +415,19 @@ maggior dispendio di risorse, per le parti di business in cui ci si vuole
 differenziare di più rispetto alla concorrenza, e gli strumenti più mainstream
 per svolgere lavori generalmente necessari, ma non caratterizzanti per
 l'azienda. 
+
+Il resto del lavoro è consistito nell'inserire gli asset nel mockup realizzato
+con Canva, usando GPT4 per dare gli ultimi sviluppi all'idea e aggiungere
+sezioni che descrivessero meglio l'idea dal punto di vista dell'utente.
+
+![](img/canva.png)
+
+### Conclusioni
+
+Il processo ci ha mostrato come usare l'IA a supporto creativo, sfruttando le
+forze di ciascuno strumento e comprendendone le lacune. Con il giusto
+criterio, è possibile avere in mano dei tool che permettono di procedere a
+ritmi molto rapidi nello sviluppo creativo di idee, permettendo di superare
+limiti nei tempi di ideazione ed esecuzione di idee e progetti, avere spunti e
+ispirazioni, e generalmente grandi potenzialità per la realizzazione di ogni
+lavoro.
