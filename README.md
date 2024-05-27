@@ -3,7 +3,7 @@ title: EGINB - Progetto
 author: Bruni Christian, Fabbro Lorenzo, Gentiletti Emanuele, Lopez Antonio
 ---
 
-![](science_museum.png)
+![](img/science_museum.png)
 
 Nel nostro progetto, abbiamo voluto esplorare l'idea di usare l'IA generativa
 nel contesto di musei per la scienza. La GenAI può essere una risorsa
@@ -147,7 +147,7 @@ didattico la simulazione di esperimenti sembra l'aspetto più educativo ed
 efficace, e la realtà aumentata riesce a portare elementi di interattività e
 immersività senza togliere completamente il ruolo dello spazio fisico e
 permettendo che il museo resti un luogo fisico di aggregazione sociale.
-è anche da notare come GPT4 abbia fatto product placement nella propria
+È anche da notare come GPT4 abbia fatto product placement nella propria
 risposta, proponendosi come generative AI a supporto dell'esperienza.
 
 # Fase 2: Iterazione sull'idea
@@ -303,7 +303,7 @@ con il seguente prompt, aggiunto alla precedente descrizione dell'esperienza:
 Il consenso è universalmente verso un percorso guidato, rendendo la proposta
 precedente di Gemini la più appetibile, dato che crea possibilità di
 comunicazione tramite la transizione in diverse epoche e giochi ed effetti a
-impatto, come il volare da un'epoca all'altra. è interessante vedere come
+impatto, come il volare da un'epoca all'altra. È interessante vedere come
 quando la questione viene posta nel dettaglio anche i modelli che prima si sono
 espressi in favore di un hub centrale sembrano più propensi a usare un altro
 approccio, mostrando come iterare su certe idee possa dare cambi di risultati
@@ -348,6 +348,70 @@ i suoi punti di forza rispetto ad altri, e tutte le idee proposte potevano
 essere soggettivamente accettate, per cui a un certo punto la scelta giusta può
 ricadere su elementi contestuali o di preferenza personale.
 
+Nel valutare le performance, e ponendo come criterio quale sarebbe il tool più
+efficace in isolamento, GPT4 si è rivelato il più versatile, dando generalmente
+risposte adeguate in diversi aspetti. Claude e Gemini possono essere aggiunte
+valide su ambiti specifici (es. marketing) o nell'avere risposte più creative,
+ma GPT4 è lo strumento che permette di arrivare a un risultato con minori
+iterazioni, e generalmente è stato usato per le altre parti di questo progetto
+per questa ragione.
+
 # Fase 3 - Sviluppo del sito web
 
+Nello sviluppo del sito web, la generative AI è stata lo strumento principale
+di creazione di asset, con cui abbiamo illustrato il resto del progetto. Nel
+farlo abbiamo testato tre diversi tool
 
+- Midjourney
+- Stable Diffusion XL (InvokeAI)
+- DeepAI
+
+DeepAI è stato considerato nel valutare tool gratuiti, e in quanto tale è stato
+quello che ha dato risultati più deludenti, mostrando il fatto che appartenesse
+a una generazione precedente di tool e modelli di generazione di immagini. Per
+semplicità d'uso e qualità dei risultati, il tool migliore è stato Midjourney.
+Per interfacciarsi a Midjourney, è necessario usare Discord, un'app di
+messaggistica, in cui comunicando con un bot si richiede l'immagine desiderata.
+L'interazione quindi non è eccessivamente user friendly, mancando di un'app o
+un sito a cui fare riferimento, ma nel complesso è stato il tool che ha
+richiesto meno gestione e manutenzione e che ha realizzato le immagini migliori
+con minore sforzo.
+
+![](img/midjourney.png)
+
+Dall'altra parte, Stable Diffusion è una famiglia di modelli open-source
+disponibili pubblicamente per l'uso, per cui ci sono piattaforme che mettono a
+disposizione server con le schede grafiche richieste per il loro uso. Il
+modello che abbiamo usato in questo progetto è Stable Diffusion XL, ed è
+possibile usarlo tramite piattaforme gestite (come stability.ai) o eseguendolo
+su computer con schede grafiche adeguate, che possono essere presi in affitto a
+costi contenuti in piattaforme come RunPod. Abbiamo usato il secondo approccio,
+e le conclusioni che ne abbiamo tratto sono:
+
+- La personalizzabilità è la massima tra i diversi strumenti. Ci sono molti
+  modelli e variazioni che generano risultati diversi e specifici e adatti agli
+  stili richiesti.
+- Molta manutenzione richiesta, nel far eseguire i modelli come nel riuscire ad
+  arrivare ai risultati desiderati. Pur essendo possibile arrivare a risultati
+  migliori di Midjourney, l'impegno per farlo è notevolmente superiore rispetto
+  all'ottenere un risultato più che adeguato con Midjourney.
+
+![](img/stablediffusion.png)
+
+Nel complesso, Midjourney è lo strumento che permette di arrivare a risultati
+migliori più facilmente. Se il proprio core business è rivolto verso la
+generazione di immagini, Stable Diffusion permette controllo massimo sul
+processo di generazione ed è migliore nell'arrivare esattamente al risultato
+voluto.
+
+Nel corso del progetto, abbiamo constatato che non è chiaro quali siano
+obiettivamente gli strumenti migliori per un dato compito, e in questo possiamo
+rilevare un contrasto: gli strumenti che generalmente funzionano meglio sono
+anche quelli che funzionano più "genericamente", sacrificando il controllo
+dell'utente e la creatività delle risposte per risultati più generalmente
+adeguati a tutte le situazioni, ma meno particolari e creativi. È bene usare le
+tecnologie che permettono di spaziare e avere maggior controllo, a costo di un
+maggior dispendio di risorse, per le parti di business in cui ci si vuole
+differenziare di più rispetto alla concorrenza, e gli strumenti più mainstream
+per svolgere lavori generalmente necessari, ma non caratterizzanti per
+l'azienda. 
